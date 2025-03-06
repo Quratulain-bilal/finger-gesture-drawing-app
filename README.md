@@ -38,8 +38,8 @@ Welcome to the **Finger Gesture-Based Drawing App**! This interactive applicatio
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/finger-gesture-drawing-app.git
-   cd finger-gesture-drawing-app
+   https://github.com/Quratulain-bilal/finger-gesture-drawing-app.git
+   
 Set Up a Virtual Environment (Optional but Recommended):
 
 bash
@@ -99,20 +99,7 @@ OpenCV: For making computer vision accessible.
 
 Tkinter: For simplifying GUI development in Python.
 
-Connect with Me 🌐
-Let’s connect and collaborate!
 
-LinkedIn: Your LinkedIn Profile
-
-GitHub: Your GitHub Profile
-
-Email: your.email@example.com
-
-Enjoy drawing with your fingers! 🎨✨
-
-Copy
-
----
 
 ### Key Features of This `README.md`:
 
@@ -136,13 +123,6 @@ Copy
    - Adds a personal touch and invites others to connect.
 
 ---
-
-### How to Use the `README.md`:
-
-1. Save the content above in a file named `README.md`.
-2. Place it in the root directory of your project.
-3. Add a demo GIF or screenshot (optional but recommended).
-4. Push it to GitHub along with your code.
 
 
 

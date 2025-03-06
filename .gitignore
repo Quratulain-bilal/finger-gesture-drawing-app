@@ -1,0 +1,21 @@
+# Ignore virtual environment files
+venv/
+.env/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore IDE-specific files
+.vscode/
+.idea/
+
+# Ignore system-specific files
+.DS_Store
+
+# Ignore media and output files
+*.png
+*.jpg
+*.mp4

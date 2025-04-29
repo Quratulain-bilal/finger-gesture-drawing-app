@@ -42,8 +42,7 @@ Welcome to the **Finger Gesture-Based Drawing App**! This interactive applicatio
    
 Set Up a Virtual Environment (Optional but Recommended):
 
-bash
-Copy
+
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 Install Dependencies:
